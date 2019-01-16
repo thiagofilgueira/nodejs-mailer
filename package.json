@@ -1,0 +1,16 @@
+{
+  "name": "node-js-mailer",
+  "version": "1.0.0",
+  "description": "My sample Node.js Mailer Application using nodemailer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Node.js", "Mailer", "Nodemailer"],
+  "author": "Thiago Filgueira de Moura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemailer": "^5.1.1"
+  }
+}
